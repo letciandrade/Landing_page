@@ -1,0 +1,39 @@
+*{
+    margin-top: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Container{
+    background-color: azure;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Tilt Neon', cursive;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Tilt Neon', cursive;
+
+}
+
+p{
+    font-family: 'Rubik', sans-serif;
+   font-size: 24px;
+   text-align: justify;
+   padding: 2rem;
+}
+
+
+.imagem{
+
+background-color: azure;
+border-radius: 10px;
+}
+
+footer{
+    background-color: white;
+    text-align: center;
+}
